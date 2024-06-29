@@ -1,0 +1,6 @@
+{
+	"token": "MTA5OTc4MTk4NDA0MzE1OTY1Mw.G-QONM.U_PBiR0xFK-M0LGr9ocLNFcnqP81ZuSyL81Kao",
+	"clientId": "1099781984043159653",
+	"guildId": "1076209332800196688",
+	"mongooseConnectionString": "mongodb+srv://msal:bsywQWRzrf2zLlN8@cluster0.geaeilz.mongodb.net/leaderboard"
+}
